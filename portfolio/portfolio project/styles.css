@@ -497,7 +497,7 @@ img {
 .Resume__img{
   align-items: center;
   margin:auto;
-  box-shadow: 2px 2px 3px 5px green;
+/*   box-shadow: 2px 2px 3px 5px green; */
 
 }
 .resume__button{
